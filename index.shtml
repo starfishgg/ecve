@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="bg" lang="bg" dir="ltr"><!-- InstanceBegin template="templates/www.elitconsult.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Елит Консулт</title>
+<!-- InstanceEndEditable -->
+<!--#include virtual="/includes/meta.htm" -->
+<!-- InstanceParam name="pageicontext" type="text" value="Начало" -->
+<link href="/styles/layout.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+#navi a.aboutus {
+	color: #FFF;
+	border-left-color: #999;
+	border-top-color: #999;
+	background-image:url("images/grey_fader.gif");
+	background-repeat:repeat;
+}
+</style>
+<meta name="google-site-verification" content="OEQtu946kKeJT9ykHXDoDYwFzoZqbLbNrzic8N-sDEs" />
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<div id="wrapper"><!--Main wrapper-->
+
+<!--#include virtual="/includes/header.htm" -->
+
+	<div id="main-container"><!--Main container-->
+
+		<div id="sidebar">
+<!--#include virtual="/includes/sidebar.htm" -->
+        </div>  
+
+		<div id="content">
+		  <!-- InstanceBeginEditable name="mainEdit" -->
+		  <h1>За Елит Консулт</h1>
+          <p>Фирма &bdquo;Елит Консулт-ВЕ&ldquo; ЕООД, е с основен предмет на  дейност извършване оценки на недвижими  имоти,  оценки на търговски предприятия и  вземания, оценки на права на интелектуалната и индустриална собственост и други  фактически отношения, оценка на машини и съоръжения, оценка на други активи,  бижута и скъпоценни камъни, нумизматика и антиквариат, консултантски услуги, проектиране, строителство. </p>
+<p>Фирмата е регистрирана, с влязло в сила Решение на  СОФИЙСКИ ГРАДСКИ СЪД №1 от 06.10.2004 година по ф.д. № 10570/2004г.</p>
+          <p>Седалище и адрес на управление гр. София, район  &bdquo;Лозенец&ldquo;, ул. &bdquo;Лозенец&ldquo; №18.<br />
+            Централния офис на фирмата, се намира в гр. София,  кв.&bdquo;Лозенец&ldquo;, ул.&bdquo;Цветна градина&ldquo; № 1Б, етаж 1, офис № 20. Освен в София, &bdquo;Елит  Консулт-ВЕ&ldquo;, разполага с  подизпълнителни в цялата страна.</p>
+          <p>Сътрудниците на фирмата работят в сферата на  оценителската дейност от 15 години, като имат опит, в извършване на различни  видове експертни оценки – на недвижими имоти, земеделски земи, машини и  съоръжения, цели предприятия и други активи.</p>
+          <p> Фирмата успешно работи с &bdquo;Уникредит Булбанк&ldquo; АД, &bdquo;МКБ Юнионбанк&ldquo;  АД, &bdquo;ТИ БИ АЙ Кредит&rdquo; ЕАД и други. &bdquo;Елит Консулт-ВЕ&rdquo; ЕООД работи със Столична  община. Клиенти са физически и юридически лица, както български, така и  чуждестранни.</p>
+          <p><strong>Управител на  фирмата е инж. Емил Иванов Нешев, експерт с дългогодишен опит. </strong><br />
+            <strong>Притежавани  лични сертификати: </strong></p>
+          <ul>
+            <li> Сертификат за оценителска правоспособност Рег. №  500100369 от 14.12.2009г. – за Оценка на търговски предприятия и вземания;</li>
+            <li>Сертификат за оценителска правоспособност Рег. №  400100068 от 14.12.2009г. – за Оценка на права на интелектуалната и  индустриалната собственост и други фактически отношения;</li>
+            <li>Сертификат за оценителска правоспособност Рег. №  300100409 от 14.12.2009г. – за Оценка на машини и съоръжения;</li>
+            <li>Сертификат за оценителска правоспособност Рег. №  100101137 от 14.12.2009г. – за Оценка на недвижими имоти;</li>
+            <li>Сертификат за оценителска правоспособност Рег. №  700100015 от 14.12.2009г. – за Оценка на други активи (бижута и скъпоценни  камъни камъни, нумизматика и антиквариат)</li>
+          </ul>
+          <p><strong>Сертификат на фирма &bdquo;Елит Консулт-ВЕ&ldquo; ЕООД</strong></p>
+          <ul>
+            <li>Сертификат за  оценителска правоспособност Рег. № 900500101 от 17.12.2010г. – за Оценка на  недвижими имоти, машини и съоръжения, права на интелектуалната и индустриалната  собственост и други фактически отношения, търговски предприятия и вземания,  други активи, издаден от КНОБ.</li>
+          </ul>
+          <p>&nbsp;</p>
+          <!-- InstanceEndEditable -->
+	  </div><div class="clear"></div>
+
+	</div><!--Main container-->
+
+<!--#include virtual="/includes/footer.htm" -->
+
+
+</div><!--Main wrapper-->
+
+</body>
+<!-- InstanceEnd --></html>

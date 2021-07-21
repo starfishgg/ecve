@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="bg" lang="bg" dir="ltr"><!-- InstanceBegin template="../templates/www.elitconsult.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Елит Консулт - Задайте въпрос</title>
+<!-- InstanceEndEditable -->
+<!--#include virtual="/includes/meta.htm" -->
+<!-- InstanceParam name="pageicontext" type="text" value="Начало" -->
+<link href="/styles/layout.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+#navi a.questions {
+	color: #FFF;
+	border-left-color: #999;
+	border-top-color: #999;
+	background-image:url("/images/grey_fader.gif");
+	background-repeat:repeat;
+}
+</style>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<div id="wrapper"><!--Main wrapper-->
+
+<!--#include virtual="/includes/header.htm" -->
+
+	<div id="main-container"><!--Main container-->
+
+		<div id="sidebar">
+<!--#include virtual="/includes/sidebar.htm" -->
+        </div>  
+
+		<div id="content">
+		  <!-- InstanceBeginEditable name="mainEdit" -->
+      <h1>Задайте въпрос</h1>
+      <p>Ако имате въпроси, моля свържете се с нас: </p>
+      <!-- Do not change code! -->
+      <table>
+        <tr>
+          <td><iframe width="400" height="490" frameborder="0" src="http://www.foxyform.com/form.php?id=124808&sec_hash=8e4b49ee537"></iframe></td>
+        </tr>
+        <tr>
+          <td align="center"><a style="font:8px Arial;color:#5C5C5C;" href="http://www.foxyform.com">foxyform.com</a></td>
+        </tr>
+      </table>
+      <!-- Do not change code! -->
+      <p>&nbsp;</p>
+      <!-- InstanceEndEditable -->
+	  </div><div class="clear"></div>
+
+	</div><!--Main container-->
+
+<!--#include virtual="/includes/footer.htm" -->
+
+
+</div><!--Main wrapper-->
+
+</body>
+<!-- InstanceEnd --></html>

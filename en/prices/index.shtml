@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="bg" lang="bg" dir="ltr"><!-- InstanceBegin template="../../templates/www.elitconsult-en.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Elit Consult - Prices</title>
+<!-- InstanceEndEditable -->
+<!--#include virtual="/includes/meta-en.htm" -->
+<!-- InstanceParam name="pageicontext" type="text" value="Начало" -->
+<link href="/styles/layout.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+#navi a.prices {
+	color: #FFF;
+	border-left-color: #999;
+	border-top-color: #999;
+	background-image:url("/images/grey_fader.gif");
+	background-repeat:repeat;
+}
+</style>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<div id="wrapper"><!--Main wrapper-->
+
+<!--#include virtual="/includes/header-en.htm" -->
+
+	<div id="main-container"><!--Main container-->
+
+		<div id="sidebar">
+<!--#include virtual="/includes/sidebar-en.htm" -->
+        </div>  
+
+		<div id="content">
+		  <!-- InstanceBeginEditable name="mainEdit" -->
+		  <h1>Preperation Time and Prices</h1>
+		  <p>The preperation time and prices vary depending on the difficulty of the service.</p>
+		  <p><strong>Amount of remuneration for appraisals of particular assets</strong></p>
+          <table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <th>Asset for appraisal</th>
+              <th><p align="center">  Prices for standard appraisals<br />
+              (VAT not-included)</p></th>
+            </tr>
+            <tr>
+              <td><p>Apartment with market price up to BGN 1,000,000 (one million)</p></td>
+              <td class="price"><p> <strong>BGN 130</strong></p></td>
+            </tr>
+            <tr>
+              <td><p>House with market price up to BGN 1,000,000 
+              (one million)</p></td>
+              <td class="price"><p><strong>BGN 190 for one storey house</strong><br />
+              plus 20 % per any additional floor</p></td>
+            </tr>
+            <tr>
+              <td><p>Office with market price up to BGN 1,000,000 
+              (one million)</p></td>
+              <td class="price"><p><strong>BGN 190 for an office up to 200 sq.m.</strong><br />
+plus 20 % for above 200 sq.m.</p></td>
+            </tr>
+            <tr>
+              <td><p>Shop with market price up to BGN 1,000,000 
+              (one million)</p></td>
+              <td class="price"><strong>BGN 250 for a shop up to 200 sq.m.</strong><br />
+plus 20 % for above 200 sq.m.</td>
+            </tr>
+            <tr>
+              <td><p>For the above four positions for properties with market value above BGN 1,000,000 (one million)</p></td>
+              <td class="price"><p><strong>0,12 % of market value</strong></p>
+              <p>maximum of BGN 2 500</p></td>
+            </tr>
+            <tr>
+              <td><p>Plot, land</p></td>
+              <td class="price"><p><strong>BGN 180</strong></p></td>
+            </tr>
+            <tr>
+              <td><p>Plot for development of investment project– residential, industrial or another kind of construction</p></td>
+              <td class="price"><p><strong>BGN 380 to BGN 2 500</strong></p>
+              <p>0.12 % of market value</p></td>
+            </tr>
+            <tr>
+              <td><p>Motor car</p></td>
+              <td class="price"><p><strong>BGN 70 per unit</strong></p></td>
+            </tr>
+            <tr>
+              <td><p>Truck</p></td>
+              <td class="price"><p><strong>BGN 85 per unit</strong></p></td>
+            </tr>
+            <tr>
+              <td><p>Agricultural machinery</p></td>
+              <td class="price"><p><strong>BGN 85 per unit</strong></p></td>
+            </tr>
+            <tr>
+              <td><p>Farm equipment</p></td>
+              <td class="price"><p><strong>BGN 70 per unit</strong></p></td>
+            </tr>
+            <tr>
+              <td><p>Garage (parking place)</p></td>
+              <td class="price"><p><strong>BGN 50 per unit</strong></p></td>
+            </tr>
+            <tr>
+              <td><p>Enterprises - buildings only</p></td>
+              <td class="price"><p> 0,12 % of market value,<br />
+                <strong>but min BGN 6 00, max BGN 2 500</strong></p></td>
+            </tr>
+            <tr>
+              <td><p>Machinery and equipment <br />
+              without buildings</span>/</p></td>
+              <td class="price"><p>0,12 % of market value,<br />
+                <strong>but min BGN 6 00, max BGN 2 500</strong></p></td>
+            </tr>
+            <tr>
+              <td><p>Machinery and equipment<br />
+              up to 20 items or with an individual price up to BGN 40 000 /forty thousand/ per unit</p></td>
+              <td class="price"><p><strong>BGN 85 per unit</strong><br />
+              /for more than 20  items or with an individual price up to BGN 40 000 /forty thousand/ per unit the price should be as for machinery and equipment</p></td>
+            </tr>
+            <tr>
+              <td><p>Appraisal of entire enterprise together with appraisal of buildings and machinery in it</p></td>
+              <td class="price"><p>0,12 % of market value,<br />
+                <strong>but minimum BGN 600, max BGN 3 800</strong></p></td>
+            </tr>
+            <tr>
+              <td><p>Updating of appraisal</p></td>
+              <td class="price"><p>30 % from the initial price for appraisal of the respective asset <strong>but not less than BGN 85</strong></p></td>
+            </tr>
+            <tr>
+              <td><p><span lang="EN-US" xml:lang="EN-US">Hotels</span>, <span lang="EN-US" xml:lang="EN-US"> petrol stations</span>, <span lang="EN-US" xml:lang="EN-US"> warehouses</span>, <span lang="EN-US" xml:lang="EN-US"> grain base</span></p></td>
+              <td class="price"><p>Subject to agreement depending on the size of the asset and its remoteness</p></td>
+            </tr>
+          </table>
+          <p>Our main objectives are integrity and speed of service.</p>
+          <p>&nbsp;</p>
+		  <!-- InstanceEndEditable -->
+	  </div><div class="clear"></div>
+
+	</div><!--Main container-->
+
+<!--#include virtual="/includes/footer-en.htm" -->
+
+
+</div><!--Main wrapper-->
+
+</body>
+<!-- InstanceEnd --></html>

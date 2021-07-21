@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="bg" lang="bg" dir="ltr"><!-- InstanceBegin template="../../../templates/www.elitconsult-en.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Elit Consult - Privatisation valuations</title>
+<!-- InstanceEndEditable -->
+<!--#include virtual="/includes/meta-en.htm" -->
+<!-- InstanceParam name="pageicontext" type="text" value="Начало" -->
+<link href="/styles/layout.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+</style>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<div id="wrapper"><!--Main wrapper-->
+
+<!--#include virtual="/includes/header-en.htm" -->
+
+	<div id="main-container"><!--Main container-->
+
+		<div id="sidebar">
+<!--#include virtual="/includes/sidebar-en.htm" -->
+        </div>  
+
+		<div id="content">
+		  <!-- InstanceBeginEditable name="mainEdit" -->
+		  <h1> <img src="/images/privatisation.gif" alt="Privitisation" width="155" height="155" align="right" />Privatisation valuations</h1>
+          <p>They are prepared for the needs of the privatization authority. Pursuant to the Privatization and Post-privatization Control Act: </p>
+          <p>Article 4. (1) The privatization of the state-owned interest in the capital of any commercial corporation, as well as of any self-contained part of the property of commercial corporations wherein the State holds an interest exceeding 50 per cent, shall be effected by the Privatization Agency. </p>
+          <p>(2) The privatization of the municipal-owned interest in the capital of any commercial corporation, of any self-contained part of the property of commercial corporations wherein a municipality holds an interest exceeding 50 per cent, as well as of any item of property referred to in Article 1, paragraph 2, sub-paragraph 3 shall be effected by the municipal councils or by authorities thereby designated. </p>
+          <p>&nbsp;</p>
+          <!-- InstanceEndEditable -->
+	  </div><div class="clear"></div>
+
+	</div><!--Main container-->
+
+<!--#include virtual="/includes/footer-en.htm" -->
+
+
+</div><!--Main wrapper-->
+
+</body>
+<!-- InstanceEnd --></html>

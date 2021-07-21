@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="bg" lang="bg" dir="ltr"><!-- InstanceBegin template="../templates/www.elitconsult.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Елит Консулт - Контакти</title>
+<!-- InstanceEndEditable -->
+<!--#include virtual="/includes/meta.htm" -->
+<!-- InstanceParam name="pageicontext" type="text" value="Начало" -->
+<link href="/styles/layout.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+#navi a.contacts {
+	color: #FFF;
+	border-left-color: #999;
+	border-top-color: #999;
+	background-image:url("../images/grey_fader.gif");
+	background-repeat:repeat;
+}
+</style>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<div id="wrapper"><!--Main wrapper-->
+
+<!--#include virtual="/includes/header.htm" -->
+
+	<div id="main-container"><!--Main container-->
+
+		<div id="sidebar">
+<!--#include virtual="/includes/sidebar.htm" -->
+        </div>  
+
+		<div id="content">
+		  <!-- InstanceBeginEditable name="mainEdit" -->
+      <h1><img src="/images/contactus.jpg" alt="Контакти" width="200" height="200" align="right" />Контакти </h1>
+      <p>Ако желаете да осъществите контакт с нас ще ни намерите на:</p>
+      <p><strong>Офис:</strong> ж.к. &quot;Лозенец&quot;, 
+        ул. &quot;Цветна градина&quot; № 1Б, ет.1, офис № 20<br />
+        <strong>Пощенски адрес: </strong>София, 1164<br />
+        <strong>тел:</strong> (359 2) 862 35 15<br />
+        <strong>Тел./факс:</strong> (359 2) 863 51 78<br />
+        <strong>email: </strong><a href="mailto:ten@mbox.contact.bg">ten@mbox.contact.bg</a> / <a href="mailto:elit.consult.ve@abv.bg">elit.consult.ve@abv.bg</a><br />
+        <strong>web:</strong> <a href="http://www.elitconsultve.com">www.elitconsultve.com</a></p>
+
+<!-- Start of Google Map -->
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.bg/maps?f=q&amp;source=s_q&amp;hl=bg&amp;geocode=&amp;q=%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%B0+%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0+1%D0%B1&amp;aq=&amp;sll=42.677312,23.32069&amp;sspn=0.010853,0.027981&amp;g=%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%B0+%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0+1b&amp;ie=UTF8&amp;hq=&amp;hnear=%D1%83%D0%BB.+%D0%A6%D0%B2%D0%B5%D1%82%D0%BD%D0%B0+%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0+1,+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F,+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F-%D0%B3%D1%80%D0%B0%D0%B4&amp;ll=42.677324,23.32067&amp;spn=0.011043,0.018239&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.bg/maps?f=q&amp;source=embed&amp;hl=bg&amp;geocode=&amp;q=%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%B0+%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0+1%D0%B1&amp;aq=&amp;sll=42.677312,23.32069&amp;sspn=0.010853,0.027981&amp;g=%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%B0+%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0+1b&amp;ie=UTF8&amp;hq=&amp;hnear=%D1%83%D0%BB.+%D0%A6%D0%B2%D0%B5%D1%82%D0%BD%D0%B0+%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0+1,+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F,+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F-%D0%B3%D1%80%D0%B0%D0%B4&amp;ll=42.677324,23.32067&amp;spn=0.011043,0.018239&amp;z=15&amp;iwloc=A" style="color:#0000FF;text-align:left">Вижте по-голяма карта</a></small>
+<!-- End of Google Map -->
+
+<!-- InstanceEndEditable -->
+	  </div><div class="clear"></div>
+
+	</div><!--Main container-->
+
+<!--#include virtual="/includes/footer.htm" -->
+
+
+</div><!--Main wrapper-->
+
+</body>
+<!-- InstanceEnd --></html>

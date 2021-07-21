@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="bg" lang="bg" dir="ltr"><!-- InstanceBegin template="../templates/www.elitconsult-en.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Elit Consult</title>
+<!-- InstanceEndEditable -->
+<!--#include virtual="/includes/meta-en.htm" -->
+<!-- InstanceParam name="pageicontext" type="text" value="Начало" -->
+<link href="/styles/layout.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+#navi a.aboutus {
+	color: #FFF;
+	border-left-color: #999;
+	border-top-color: #999;
+	background-image:url("/images/grey_fader.gif");
+	background-repeat:repeat;
+}
+</style>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<div id="wrapper"><!--Main wrapper-->
+
+<!--#include virtual="/includes/header-en.htm" -->
+
+	<div id="main-container"><!--Main container-->
+
+		<div id="sidebar">
+<!--#include virtual="/includes/sidebar-en.htm" -->
+        </div>  
+
+		<div id="content">
+		  <!-- InstanceBeginEditable name="mainEdit" -->
+		  <h1>About Elit Consult</h1>
+          <p>Elite Consult – VE Ltd. is a company specialised in the field of real estate valuation, valuations of intellectual and industrial property rights, valuations of plant and machinery, valuations of works of art, antiques, precious stones, etc., consulting services, design projects, construction. </p>
+          <p>The company is registered with Ruling No. 1 of the Sofia City Court dated 06 October 2004 under company case 10570 from year 2004. </p>
+          <p>The headquarters of Elite Consult – VE Ltd. are located in Sofia, Lozenetz Street № 18. The main office is located in Sofia, &quot;Lozenetz&quot;, Tzvetna Gradina Street № 1B, Floor 1, Office № 20. Elite Consult – VE Ltd. uses sub-contractors for assignments in other Bulgarian cities and towns. </p>
+          <p>The company employees are people who have experience working in the field of expert valuation for over 15 years.</p>
+          <p> The company is working successfully with Unicredit Bulbank, MKB Unionbank, TBI Credit and others, as well as Sofia Municipality. </p>
+          <p>Our clients include both individuals and legal persons, and both Bulgarian and foreigners. The manager of the company is Eng. Emil Ivanov Neshev, an expert with extensive experience. </p>
+          <p>&nbsp;</p>
+		  <!-- InstanceEndEditable -->
+	  </div><div class="clear"></div>
+
+	</div><!--Main container-->
+
+<!--#include virtual="/includes/footer-en.htm" -->
+
+
+</div><!--Main wrapper-->
+
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="bg" lang="bg" dir="ltr"><!-- InstanceBegin template="../templates/www.elitconsult.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Елит Консулт - Цени</title>
+<!-- InstanceEndEditable -->
+<!--#include virtual="/includes/meta.htm" -->
+<!-- InstanceParam name="pageicontext" type="text" value="Начало" -->
+<link href="/styles/layout.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+#navi a.prices {
+	color: #FFF;
+	border-left-color: #999;
+	border-top-color: #999;
+	background-image:url("/images/grey_fader.gif");
+	background-repeat:repeat;
+}
+</style>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<div id="wrapper"><!--Main wrapper-->
+
+<!--#include virtual="/includes/header.htm" -->
+
+	<div id="main-container"><!--Main container-->
+
+		<div id="sidebar">
+<!--#include virtual="/includes/sidebar.htm" -->
+        </div>  
+
+		<div id="content">
+		  <!-- InstanceBeginEditable name="mainEdit" -->
+<h1>Срокове на изпълнение и Цени</h1>
+<p>Сроковете на изпълнение и цените, варират съгласно  сложността на услугата. Нашите основни задачи са Коректност към клиента и Бързина  на услугата.</p>
+<p><strong>Размер на възнагражденията за оценки на отделни активи</strong></p>
+<table>
+	    <tr>
+	      <th>Вид&nbsp;  оценявани&nbsp; активи</th>
+	      <th>Хонорари  за оценка ( цени БЕЗ ДДС )</th>
+        </tr>
+	    <tr>
+	      <td><p>Апартамент с пазарна стойност до 1,000,000 лева </p></td>
+	      <td class="price"><p><strong>130 лв.</strong></p></td>
+        </tr>
+	    <tr>
+	      <td><p>Къща с пазарна стойност до 1,000,000 лева </p></td>
+	      <td class="price"><p><strong>190 лв. за едноетажна къща</strong><br />
+            плюс 20 % за всеки следващ етаж </p></td>
+        </tr>
+	    <tr>
+	      <td><p>Офис с пазарна стойност до 1,000,000 лева </p></td>
+	      <td class="price"><p><strong>190 лв. за офис до 200 кв.м.</strong><br />
+            плюс 20 % за над 200 кв.м. </p></td>
+        </tr>
+	    <tr>
+	      <td><p>Магазин с пазарна стойност до 1,000,000 лева </p></td>
+	      <td class="price"><strong>250 лв. за магазини до 200 кв.м.</strong><br />
+	        плюс 20 % за над 200 кв.м. </td>
+        </tr>
+	    <tr>
+	      <td><p>По горните 4 позиции над 1.000.000 лева </p></td>
+	      <td class="price"><p><strong>0,12% от стойността и максимум 2 500 лв.</strong></p></td>
+        </tr>
+	    <tr>
+	      <td><p>Празен терен и земеделска земя </p></td>
+	      <td class="price"><p><strong>180 лв.</strong></p></td>
+        </tr>
+	    <tr>
+	      <td><p>Терен за развитие на инвестиционен проект – жилищно, промишлено или друго строителство </p></td>
+	      <td class="price"><p><strong>380 до 2 500 лв.,</strong><br />
+	        0.12 % от стойността на имота </p></td>
+        </tr>
+	    <tr>
+	      <td><p>Лек автомобил </p></td>
+	      <td class="price"><p><strong>70 лв./бр. </strong></p></td>
+        </tr>
+	    <tr>
+	      <td><p>Товарен автомобил </p></td>
+	      <td class="price"><p><strong>85 лв./бр. </strong></p></td>
+        </tr>
+	    <tr>
+	      <td><p>Селскостопанска машина </p></td>
+	      <td class="price"><p><strong>85 лв./бр. </strong></p></td>
+        </tr>
+	    <tr>
+	      <td><p>Прикачен инвентар към тях </p></td>
+	      <td class="price"><p><strong>70 лв./бр. </strong></p></td>
+        </tr>
+	    <tr>
+	      <td><p>Гараж</p></td>
+	      <td class="price"><p><strong>50 лв./бр.</strong></p></td>
+        </tr>
+	    <tr>
+	      <td><p>Производствено предприятие – <br />
+            Само сгради </p></td>
+	      <td class="price"><p>0,12 % от пазарната стойност,<br />
+              <strong>но минимум 600 лв., максимум 2 500 лв. </strong></p></td>
+        </tr>
+	    <tr>
+	      <td><p>Производствено оборудване <br />
+            /без сгради/ </p></td>
+	      <td class="price"><p>0,12 % от пазарната стойност,<br />
+              <strong>но минимум 600 лв., максимум 2 500 лв. </strong></p></td>
+        </tr>
+	    <tr>
+	      <td><p>Отделни производствени машини <br />
+            / до 20 броя/ или с индивидуална стойност до 40 000 /четиридесет хиляди/ лева за 1 брой. </p></td>
+	      <td class="price"><p><strong>85 лв/бр.</strong><br />
+            /над 20 бр. или с индивидуална стойност над 40 000 лв. се таксуват като производствено оборудване/</p></td>
+        </tr>
+	    <tr>
+	      <td><p>Оценка на цяло предприятие, както и оценка на сгради и машини от него </p></td>
+	      <td class="price"><p>0,12 % от пазарната стойност,<br />
+              <strong>но минимум 600 лв., максимум 3 800 лв.</strong></p></td>
+        </tr>
+	    <tr>
+	      <td><p>Актуализация на оценка </p></td>
+	      <td class="price"><p>30 % от първоначалния хонорар за оценка на съответния актив <strong>не по-малко от 85 лв.</strong></p></td>
+        </tr>
+	    <tr>
+	      <td><p>Хотели, бензиностанции, складови бази, зърнобази </p></td>
+	      <td class="price"><p>По договаряне в зависимост от големината на обекта и неговата отдалеченост </p></td>
+        </tr>
+        </table>
+<p>&nbsp;</p>
+		  <!-- InstanceEndEditable -->
+	  </div><div class="clear"></div>
+
+	</div><!--Main container-->
+
+<!--#include virtual="/includes/footer.htm" -->
+
+
+</div><!--Main wrapper-->
+
+</body>
+<!-- InstanceEnd --></html>
